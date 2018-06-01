@@ -1,0 +1,12 @@
+/***********
+ STYLE FILE
+ ***********/
+.App {
+    margin: 0 auto;
+}
+
+.App-title {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
